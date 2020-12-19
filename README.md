@@ -3,7 +3,7 @@
 
 With having vast working experience in many industries including Oversight of IT Infrastructure with AWS and GCP in Cloud Security Firm, Web Development (using .NET Core & Laravel) and working as Product Engineer to solve Time Complex problems in Video Industry.
 
-  ✔ Good knowledge on various Website Design Tools like HTML5, CSS3,SASS/LESS CSS, JavaScript, Angular 2+, Ionic Framework, Bootstrap, Angular material and Photoshop on windows platforms.
+  ✔ Good knowledge on various Website Design Tools like HTML5, CSS3,SASS/LESS CSS, JavaScript, Angular 2+, Bootstrap, Angular material and Photoshop on windows platforms.
   
   ✔ Good command on creation of Web APIs using .NET Core and Laravel.
   
