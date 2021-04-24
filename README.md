@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Syed Umer Hasan.
-#### I am Full Stack Software Engineer and an Angular Consultant, having expertise in Web Development, Scalability, Performance, Cross-browser compatibility, Design Patterns, Requirement/Analysis of Web System, Web APIs, Microservices, Web Security, Encryptions, Micro frontend and Architecture Planning.
+#### I am Full Stack Software Engineer and an Web Consultant, having expertise in Web Development, Scalability, Performance, Cross-browser compatibility, Design Patterns, Requirement/Analysis of Web System, Web APIs, Microservices, Web Security, Encryptions, Micro frontend and Architecture Planning.
 
 With having vast working experience in many industries including Oversight of IT Infrastructure with AWS and GCP in Cloud Security Firm, Web Development (using .NET Core & Laravel) and working as Product Engineer to solve Time Complex problems in Video Industry.
 
