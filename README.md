@@ -43,6 +43,65 @@ Expertise
 
 ---
 
+
+## Technical Skills
+ - Hands-on experience with (MVC, Microservices, Serverless, and Components)
+
+## Programming Languages
+ - C++, C#, .NET, .NET Core, Javascript, Typescript, PHP, NodeJS
+## FrontEnd Technologies 
+ - HTML, CSS (Grids and Flexbox), Web Components, SASS, LESS, Tailwind, Chakra
+ - React (Change Detection, Functional, Class components, Memo, Custom Hooks, Performance Optimization, Component Life Cycle, Pure components, JSX in Depth, TypeChecking, Portal Concept, Deep understanding of how Virtual DOM works)
+ - Angular (Most Advanced Change Detection, Micro Frontends, Two way Binding, SSR, Property/Event Binding, Dependency Injections, Design Patterns Implementation, Lazy loading, Custom Pipes/Directives, Modules)
+ - Electron
+ - Service Workers 
+ - Browser Storage (Cookies, Session Storage, Local Storage, IndexedDB, Cookies, JWT)
+ - Browser Notifications
+ - Web security (Content/Connection Security, CORS,CSP, CSRF, Same Origin Policy)
+ - Bundler - Webpack, Rollup, ViteJS, GulpJS
+## Backend technologies
+ - Laravel (Routing, Views, Eloquent ORM, Controllers, Middleware, Models & Migrations, Requests, Responses, Seeder)
+ - .NET (Desktop Application, MVC, WEB API, Window Service, Batch Files based Task Schedulers, Entity Framework, ADO.NET, NHibernate)
+ - NodeJS (AWS Lambda, GCP Cloud Functions, GraphQL, Server Logging, Cron Jobs)
+ - Typescript support for NPM Packages
+ - NodeJS build Runtimes (ES, CommonJS, UMD) 
+## Cloud Development
+### Google Cloud
+ - Virtual Machines
+ - Google Kubernetes Engine
+ - Cloud Functions
+ - Cloud SQL
+ - Cloud Storage
+ - Cloud CDN/VPC
+ - Cloud DNS/Domain
+ - Managed/Unmanaged Instances
+ - Load balancing
+ - Logging and Monitoring
+### AWS
+ - AWS EC2
+ - AWS S3 
+ - AWS RDS
+ - AWS Lambda
+## Networking
+ - TCP, UDP, SMTP, DNS.
+ - Frontend Cache, Server Sided Cache, SSL, GZip Compression.
+ - REST, SOAP and GraphQL APIs.
+ - Windows Server Hosting/ Linux Deployment.
+ - Server Load balancing.
+ - Management of all kinds of servers including Email, Github Server, Local In-house NPM Server
+ - Creation of Local In-house CI/CD Pipeline Server.
+ - Github Action/ Jenkins
+## Databases
+ - My SQL
+ - SQL Server
+ - DynamoDB/MongoDB
+ - Firebase/Firestore
+## Technology Paradigms
+ - Monorepo / lerna / Verdaccio
+ - Github Actions/Hooks
+ - NPM publishing of Packages with typescript Packages
+ - Changesets
+
 <div align="center">
 
 <a href="https://github.com/syedumerhasan">
