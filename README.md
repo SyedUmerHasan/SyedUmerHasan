@@ -1,27 +1,16 @@
 ### Hi there 👋, This is Syed Umer Hasan.
-#### I am Full Stack Software Engineer and an Web Consultant, having expertise in Web Development, Scalability, Performance, Cross-browser compatibility, Design Patterns, Requirement/Analysis of Web System, Web APIs, Microservices, Web Security, Encryptions, Micro frontend and Architecture Planning.
-
-With having vast working experience in many industries including Oversight of IT Infrastructure with AWS and GCP in Cloud Security Firm, Web Development (using .NET Core & Laravel) and working as Product Engineer to solve Time Complex problems in Video Industry.
-
-  ✔ Good knowledge on various Website Design Tools like HTML5, CSS3,SASS/LESS CSS, JavaScript, Angular 2+, Bootstrap, Angular material and Photoshop on windows platforms.
-  
-  ✔ Good command on creation of Web APIs using .NET Core and Laravel.
-  
-  ✔ Good command over SQL queries and Query Optimization.
-  
-  ✔ Good Knowledge of OOPs and Solid Principles with Design Patterns.
-  
-  ✔ Handled different types of projects based on the clients requirements.
-  
-  ✔ Strong communication, problem-solving, and planning skills, with ability to work independently or in a team environment.
-  
-  ✔ Maintained and modified existing applications as per requirements.
-  
-  ✔ Researched and recommended new technologies, tools and methodologies.
-  
-  ✔ Developed and implemented user interfaces as per W3C standards compatibility.
-  
-  ✔ Passionate to work with new technologies and committed to work with team members. 
+#### I am a Full Stack Software Engineer and Javascript Expert, having expertise in Web Development, Scalability, Performance, Cross-browser compatibility, Design Patterns, Requirement/Analysis of Web System, Web APIs, Microservices, Web Security, Encryptions, Micro-frontend, Web Components, and Architecture Planning.
+With vast working experience in many industries including Oversight of IT Infrastructure  and Open Source Development and  AWS and Google Cloud in Cloud Security Firm, Web Development (using .NET Core & Laravel), and working as a Product Engineer to solve Time Complex problems in the Video Industry.
+Expertise
+✔ Full-Stack Software Engineer with over 3 years of professional experience in Full Stack Development, and Project Management with several Open Source and Freelance Projects using Web Technologies and completed 70+projects.
+✔ Good Hands-on experience of OOPs and Solid Principles with Design Patterns.
+✔ Good knowledge of Monorepos, and executing multiple projects at once with resolving problems of delayed development build.
+✔ Good command in creating System Design and Architecture.
+✔ Good command over SQL queries and Query Optimization.
+✔ Researched and recommended new technologies, tools, and methodologies.
+✔ Developed and implemented user interfaces as per W3C standards compatibility.
+✔ Passionate to work with new technologies and committed to working with team members. 
+✔ Strong communication, problem-solving, and planning skills, with the ability to work independently or in a team environment.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
