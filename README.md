@@ -51,6 +51,7 @@ Expertise
  - C++, C#, .NET, .NET Core, Javascript, Typescript, PHP, NodeJS
 ## FrontEnd Technologies 
  - HTML, CSS (Grids and Flexbox), Web Components, SASS, LESS, Tailwind, Chakra
+ - GraphQL, Apollo, Style Components, 
  - React (Change Detection, Functional, Class components, Memo, Custom Hooks, Performance Optimization, Component Life Cycle, Pure components, JSX in Depth, TypeChecking, Portal Concept, Deep understanding of how Virtual DOM works)
  - Angular (Most Advanced Change Detection, Micro Frontends, Two way Binding, SSR, Property/Event Binding, Dependency Injections, Design Patterns Implementation, Lazy loading, Custom Pipes/Directives, Modules)
  - Electron
