@@ -1,9 +1,5 @@
 ### Hi there 👋, This is Syed Umer Hasan.
-#### I am a Full Stack Software Engineer and Javascript Expert, having expertise in Web Development, Scalability, Performance, Cross-browser compatibility, Design Patterns, Requirement/Analysis of Web System, Web APIs, Microservices, Web Security, Encryptions, Micro-frontend, Web Components, and Architecture Planning.
-With vast working experience in many industries including Oversight of IT Infrastructure  and Open Source Development and  AWS and Google Cloud in Cloud Security Firm, Web Development (using .NET Core & Laravel), and working as a Product Engineer to solve Time Complex problems in the Video Industry.
-Expertise
-
-✔ Full-Stack Software Engineer with over 3 years of professional experience in Full Stack Development, and Project Management with several Open Source and Freelance Projects using Web Technologies and completed 70+projects.
+I am a passionate Full Stack Software Engineer who is eager to learn and grow in the field of Software Development. Who not only wants to ship code faster but considers tested and documented code as the most important part of the software development cycle. I am not a conventional developer I would say. I need very challenging problems that are considered to be impossible to unleash my potential and that's why I play in a team. I consider working in a team the most important part of development, because diversity makes any product better. If you want me to summarize me as a person. I am a person who is open to diversity, thoughts, listens and accepts everything that needs improvements and with the habit of reading Self Help books. With my small years of experience, I have found that being a good human being is more important than being a good developer. I love helping my juniors and look forward to being a lifelong learner.
 
 ✔ Good Hands-on experience of OOPs and Solid Principles with Design Patterns.
 
