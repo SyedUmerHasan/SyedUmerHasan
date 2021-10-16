@@ -1,21 +1,6 @@
 ### Hi there 👋, This is Syed Umer Hasan.
-I am a passionate Full Stack Software Engineer who is eager to learn and grow in the field of Software Development. Who not only wants to ship code faster but considers tested and documented code as the most important part of the software development cycle. I am not a conventional developer I would say. I need very challenging problems that are considered to be impossible to unleash my potential and that's why I play in a team. I consider working in a team the most important part of development, because diversity makes any product better. If you want me to summarize me as a person. I am a person who is open to diversity, thoughts, listens and accepts everything that needs improvements and with the habit of reading Self Help books. With my small years of experience, I have found that being a good human being is more important than being a good developer. I love helping my juniors and look forward to being a lifelong learner.
 
-✔ Good Hands-on experience of OOPs and Solid Principles with Design Patterns.
-
-✔ Good knowledge of Monorepos, and executing multiple projects at once with resolving problems of delayed development build.
-
-✔ Good command in creating System Design and Architecture.
-
-✔ Good command over SQL queries and Query Optimization.
-
-✔ Researched and recommended new technologies, tools, and methodologies.
-
-✔ Developed and implemented user interfaces as per W3C standards compatibility.
-
-✔ Passionate to work with new technologies and committed to working with team members. 
-
-✔ Strong communication, problem-solving, and planning skills, with the ability to work independently or in a team environment.
+I am very a passionate Full Stack developer, who is technological agnostic. I love working on Opensource ❤️ and love to create new developer platforms. Besides this, I only focuses on the very few basic concepts of computer sciences. but those basic concept not only help me solve problems but in creating very innovative solutions for the very first time. 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,60 +24,23 @@ I am a passionate Full Stack Software Engineer who is eager to learn and grow in
 
 ---
 
-
-## Technical Skills
- - Hands-on experience with (MVC, Microservices, Serverless, and Components)
-
 ## Programming Languages
- - C++, C#, .NET, .NET Core, Javascript, Typescript, PHP, NodeJS
+ - C#, .NET, .NET Core, Javascript, Typescript, PHP, Node.js, JAVA
 ## FrontEnd Technologies 
- - HTML, CSS (Grids and Flexbox), Web Components, SASS, LESS, Tailwind, Chakra
- - GraphQL, Apollo, Style Components, 
- - React (Change Detection, Functional, Class components, Memo, Custom Hooks, Performance Optimization, Component Life Cycle, Pure components, JSX in Depth, TypeChecking, Portal Concept, Deep understanding of how Virtual DOM works)
- - Angular (Most Advanced Change Detection, Micro Frontends, Two way Binding, SSR, Property/Event Binding, Dependency Injections, Design Patterns Implementation, Lazy loading, Custom Pipes/Directives, Modules)
- - Electron
+ - HTML, CSS (Grids and Flexbox)
+ - GraphQL, Apollo, Style Components
+ - React (Performance Optimization, Deep understanding of how Virtual DOM works)
+ - Angular (Change Detection, Micro Frontends, SSR, Custom Pipes/Directives)
  - Service Workers 
- - Browser Storage (Cookies, Session Storage, Local Storage, IndexedDB, Cookies, JWT)
- - Browser Notifications
- - Web security (Content/Connection Security, CORS,CSP, CSRF, Same Origin Policy)
- - Bundler - Webpack, Rollup, ViteJS, GulpJS
+ - Web security
 ## Backend technologies
- - Laravel (Routing, Views, Eloquent ORM, Controllers, Middleware, Models & Migrations, Requests, Responses, Seeder)
- - .NET (Desktop Application, MVC, WEB API, Window Service, Batch Files based Task Schedulers, Entity Framework, ADO.NET, NHibernate)
- - NodeJS (AWS Lambda, GCP Cloud Functions, GraphQL, Server Logging, Cron Jobs)
- - Typescript support for NPM Packages
- - NodeJS build Runtimes (ES, CommonJS, UMD) 
-## Cloud Development
-### Google Cloud
- - Virtual Machines
- - Google Kubernetes Engine
- - Cloud Functions
- - Cloud SQL
- - Cloud Storage
- - Cloud CDN/VPC
- - Cloud DNS/Domain
- - Managed/Unmanaged Instances
- - Load balancing
- - Logging and Monitoring
-### AWS
- - AWS EC2
- - AWS S3 
- - AWS RDS
- - AWS Lambda
-## Networking
- - TCP, UDP, SMTP, DNS.
- - Frontend Cache, Server Sided Cache, SSL, GZip Compression.
- - REST, SOAP and GraphQL APIs.
- - Windows Server Hosting/ Linux Deployment.
- - Server Load balancing.
- - Management of all kinds of servers including Email, Github Server, Local In-house NPM Server
- - Creation of Local In-house CI/CD Pipeline Server.
- - Github Action/ Jenkins
+ - NodeJS (AWS Lambda, GCP Cloud Functions)
+ - .NET (Desktop, MVC, WEB API, Window Service)
+ - Laravel
 ## Databases
  - My SQL
  - SQL Server
  - DynamoDB/MongoDB
- - Firebase/Firestore
 ## Technology Paradigms
  - Monorepo / lerna / Verdaccio
  - Github Actions/Hooks
