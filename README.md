@@ -20,42 +20,8 @@ I am very a passionate Full Stack developer, who is technological agnostic. I lo
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
----
-
-## Programming Languages
- - C#, .NET, .NET Core, Javascript, Typescript, PHP, Node.js, JAVA
-## FrontEnd Technologies 
- - HTML, CSS (Grids and Flexbox)
- - GraphQL, Apollo, Style Components
- - React (Performance Optimization, Deep understanding of how Virtual DOM works)
- - Angular (Change Detection, Micro Frontends, SSR, Custom Pipes/Directives)
- - Service Workers 
- - Web security
-## Backend technologies
- - NodeJS (AWS Lambda, GCP Cloud Functions)
- - .NET (Desktop, MVC, WEB API, Window Service)
- - Laravel
-## Databases
- - My SQL
- - SQL Server
- - DynamoDB/MongoDB
-## Technology Paradigms
- - Monorepo / lerna / Verdaccio
- - Github Actions/Hooks
- - NPM publishing of Packages with typescript Packages
- - Changesets
-
-<div align="center">
-
-<a href="https://github.com/syedumerhasan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedumerhasan&show_icons=true&theme=dark" alt="Syed Umer Hasan's github stats"/>
-</a>
-
-</div>
-
-<div align="center">
+<div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
 
