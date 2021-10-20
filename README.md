@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Syed Umer Hasan.
 
-I am very a passionate Full Stack developer, who is technological agnostic. I love working on Opensource ❤️ and love to create new developer platforms. Besides this, I only focuses on the very few basic concepts of computer sciences. but those basic concept not only help me solve problems but in creating very innovative solutions for the very first time. 
+I am very a passionate Full Stack developer, who is technological agnostic. who is also AWS Solutions Architect and Azure certified, I love working on Opensource ❤️ and love to create new developer platforms. Besides this, I only focuses on the very few basic concepts of computer sciences. but those basic concept not only help me solve problems but in creating very innovative solutions for the very first time. 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
