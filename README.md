@@ -4,7 +4,13 @@
 
 I'm Syed Umer Hasan, a highly driven and passionate Full Stack Developer hailing from the tech hub of Greater Boston, MA 🌆. I live and breathe software development, and I can't get enough of those exhilarating web challenges! 🔥
 
-💻 Tech Stack? Oh, I've got a whole arsenal of programming languages under my belt: Javascript, Typescript, C#, PHP, Python, Java, .NET, C++, and more! 💪 Frontend? Easy peasy! I dance effortlessly with HTML, CSS, Bootstrap, Tailwind, REACT, Angular, VueJS, and NodeJS. Back-end? No problem! ExpressJS, NestJS, Laravel, Spring Boot, Django, you name it, I've got it covered! 😎
+💻 Tech Stack? Oh, I've got a whole arsenal of programming languages under my belt: 
+
+Javascript, Typescript, C#, PHP, Python, Java, .NET, C++, and more! 💪 
+
+Frontend? Easy peasy! I dance effortlessly with HTML, CSS, Bootstrap, Tailwind, REACT, Angular, VueJS, and NodeJS. 
+
+Back-end? No problem! ExpressJS, NestJS, Laravel, Spring Boot, Django, you name it, I've got it covered! 😎
 
 ☁️ Oh, and the cloud? I'm a certified wizard in AWS, Google Cloud, and Azure! ☁️ Whether it's deploying serverless Lambda functions, spinning up containers with ECS and Fargate, or managing databases like DynamoDB and RDS, I'm your cloud guru! 🧙‍♂️
 
