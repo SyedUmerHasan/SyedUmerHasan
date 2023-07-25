@@ -11,7 +11,7 @@ Javascript, Typescript, C#, PHP, Python, Java, .NET, C++, and more! 💪
 ## Frontend
 Easy peasy! I dance effortlessly with HTML, CSS, Bootstrap, Tailwind, REACT, Angular, VueJS, and NodeJS. 
 
-##Back-end 
+## Back-end 
 No problem! ExpressJS, NestJS, Laravel, Spring Boot, Django, you name it, I've got it covered! 😎
 
 ☁️ Oh, and the cloud? 
