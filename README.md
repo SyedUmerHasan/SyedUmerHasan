@@ -1,58 +1,35 @@
-### 👋 Hello tech enthusiasts!  This is Syed Umer Hasan.👋
+# 👋 Welcome to Syed Umer Hasan's GitHub!
 
-🚀 Welcome to my supercharged GitHub Profile! 🚀
+**Full Stack Developer | Cloud Enthusiast | DevOps Practitioner**
 
-I'm Syed Umer Hasan, a highly driven and passionate Full Stack Developer hailing from the tech hub of Greater Boston, MA 🌆. I live and breathe software development, and I can't get enough of those exhilarating web challenges! 🔥
+I'm a passionate Full-Stack Developer who focuses on cloud technologies and DevOps practices. I constantly explore new ways to solve complex problems and build scalable, efficient systems. With experience across multiple front-end and back-end technologies, cloud platforms, and DevOps tools, I aim to deliver impactful software solutions.
 
-💻 Tech Stack? Oh, I've got a whole arsenal of programming languages under my belt: 
+## 💼 Professional Experience
 
-Javascript, Typescript, C#, PHP, Python, Java, .NET, C++, and more! 💪 
+With hands-on experience as a Full Stack Engineer in various industries, I have developed and deployed scalable applications, automated workflows, and optimized infrastructure. My work spans everything from automating loan processes to developing real-time chat applications and ETL pipelines for analytics.
 
-## Frontend
-Easy peasy! I dance effortlessly with HTML, CSS, Bootstrap, Tailwind, REACT, Angular, VueJS, and NodeJS. 
+Key highlights include:
+- Automating workflows with Terraform, AWS, and Kubernetes.
+- Designing scalable cloud-based architectures.
+- Developing end-to-end features for real-time systems across web and mobile platforms.
 
-## Back-end 
-No problem! ExpressJS, NestJS, Laravel, Spring Boot, Django, you name it, I've got it covered! 😎
+## 🛠️ Technical Skills
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Next.js
+- **Backend**: Node.js, Python, Go, C#, PHP
+- **Cloud**: AWS, Google Cloud, Azure
+- **Databases**: SQL Server, MongoDB, Firebase, BigQuery
+- **DevOps/Infra**: Jenkins, Docker, Kubernetes, Terraform
+- **Testing**: Jest, Protractor, Playwright, Unit Testing, E2E Testing
+- **Certifications**: AWS, Google Cloud, Databricks, Terraform
 
-☁️ Oh, and the cloud? 
-I'm a certified wizard in AWS, Google Cloud, and Azure! ☁️ 
-Whether it's deploying serverless Lambda functions, spinning up containers with ECS and Fargate, or managing databases like DynamoDB and RDS, I'm your cloud guru! 🧙‍♂️
+## 🌱 Currently Learning
+I am always up for learning new tools and technologies, and currently focusing on enhancing my knowledge of cloud-native architecture, microservices, and AI/ML solutions in the cloud.
 
-🔧 But wait, there's more! I thrive in distributed systems like Apache Kafka and RabbitMQ, and I wrangle data like a pro with Databricks, PySpark, and Hadoop! 🔧
+## 🔗 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/syed-umer-hasan)
+- [GitHub](https://github.com/syedumerhasan)
+- Email: umerhasan2010@gmail.com
 
-💾 Data engineering is my forte! From designing data pipelines and integrating with BigQuery to squeezing insights from Elasticsearch and Kibana, I'm all about data-driven decisions! 💾
+Feel free to check out my repositories and projects, and don't hesitate to reach out if you'd like to collaborate!
 
-🔒 Web security is not just a checkbox for me; it's my battle cry! I fend off those pesky CORS issues, stomp out SQL injections, and protect against CSRF attacks! 🔒
-
-🏆 When it comes to professional experience, I've got real-world battle scars from collaborating with renowned companies on exciting projects! Real-time distributed chat apps, automated marketing strategies, and secure micro-payment gateways are just some of the thrilling adventures I've embarked upon! 🏆
-
-So, fellow techies, buckle up and join me on this coding rollercoaster! 🎢 Let's dive into the depths of complex algorithms, scale mountains of cloud infrastructure, and conquer the vast ocean of data engineering together! 🌊
-
-Feel free to connect with me via LinkedIn: linkedin.com/in/syedumerhasan/
-
-Tech on, my friends! 💻🔥🚀
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
-<div align="left">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+Thanks for stopping by, and happy coding! 😄
